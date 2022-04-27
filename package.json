@@ -1,0 +1,23 @@
+{
+  "name": "high-five-measurements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jsMeasurements.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jordan-Bortolotti/high-five-measurements.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jordan-Bortolotti/high-five-measurements/issues"
+  },
+  "homepage": "https://github.com/Jordan-Bortolotti/high-five-measurements#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
